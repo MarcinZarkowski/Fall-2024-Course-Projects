@@ -1,0 +1,5 @@
+DishType,Name,Ingredients,PreparationTime,Price,CuisineType,AdditionalAttributes
+APPETIZER,Quesadillas,Tortilla;Beef;Pork;Flour;Lamb;Cheese;Chicken;Peppers,15,6.99,JAPANESE,BOWL;1;false
+MAINCOURSE,Spaghetti Bolognese,Spaghetti;Ground Beef;Tomato Sauce;Onions;Beef;Shrimp;Meat;Lamb,40,12.99,JAPANESE,MELTED;Bird;Garlic Bread:BREAD|Butter:OIL;false
+DESSERT,Carrot Cake,Carrots;Flour;Sugar;Cream Cheese;Nuts;Cashews;Cheese,50,6.49,JAPANESE,YUMMY;7;true
+
